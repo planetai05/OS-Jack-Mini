@@ -8,8 +8,8 @@ A lightweight Linux container runtime in C featuring a long-running supervisor d
 
 | Name | SRN |
 |------|-----|
-| Adarsha.E | PES1UG24AM334 |
-| Abdul Mateen Shaikh | PES1UG24AM332 |
+| Anish A Kunder | PES1UG24AM343 |
+| Aryaman D K | PES1UG24AM344 |
 
 ---
 
@@ -87,46 +87,46 @@ sudo ./src/engine stop alpha
 ## 3. Demo with Screenshots
 
 ### Screenshot 1 — Multi-Container Supervision
-![s1](screenshots/1.png)
+![s1](screenshots/1.jpeg)
 
 ---
 
 ### Screenshot 2 — Metadata Tracking (`ps`)
-![s2](screenshots/2.png)
+![s2](screenshots/2.jpeg)
 
 ---
 
 ### Screenshot 3 — Bounded-Buffer Logging
-![s3](screenshots/3.png)
-![s3](screenshots/4.png)
+![s3](screenshots/3.jpeg)
+![s3](screenshots/4.jpeg)
 
 ---
 
 ### Screenshot 4 — CLI and IPC
-![s4](screenshots/5.png)
+![s4](screenshots/5.jpeg)
 
 ---
 
 ### Screenshot 5 — Soft-Limit Warning
-![s5](screenshots/6.png)
-![s5](screenshots/7.png)
+![s5](screenshots/6.jpeg)
+![s5](screenshots/7.jpeg)
 
 ---
 
 ### Screenshot 6 — Hard-Limit Enforcement
-![s6](screenshots/8.png)
+![s6](screenshots/8.jpeg)
 
 ---
 
 ### Screenshot 7 — Scheduling Experiment
-![s7](screenshots/9.png)
-![s7](screenshots/10.png)
+![s7](screenshots/9.jpeg)
+![s7](screenshots/10.jpeg)
 
 ---
 
 ### Screenshot 8 — Clean Teardown
-![s8](screenshots/11.png)
-![s8](screenshots/12.png)
+![s8](screenshots/11.jpeg)
+![s8](screenshots/12.jpeg)
 
 ---
 
